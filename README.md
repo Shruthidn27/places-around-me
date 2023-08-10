@@ -1,4 +1,4 @@
-![Screenshot from 2023-08-10 09-20-28](https://github.com/Shruthidn27/places-around-me/assets/138849783/3c6077b6-98c8-4d0b-b5f5-609a78d403e4)
+
 ## AIM:
 To develop a website to display details about the places around my house.
 
